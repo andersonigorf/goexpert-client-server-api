@@ -1,0 +1,8 @@
+# Jetbrains IDE
+.idea/
+*.iml
+
+
+# VsCode IDE
+.vscode/
+.history/
